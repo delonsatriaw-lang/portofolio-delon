@@ -26,7 +26,7 @@ export const SITE_CONFIG: SiteConfig = {
 export const SITE_CONTENT: SiteContent = {
   hero: {
     name: "Delon Satria Wongsodirejo",
-    specialty: "Mobile & Web Developer",
+    specialty: "Untar",
     summary:
       "Developer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
     email: "example@email.com",
