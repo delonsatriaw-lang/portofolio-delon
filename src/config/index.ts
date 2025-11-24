@@ -46,7 +46,7 @@ export const SITE_CONTENT: SiteContent = {
     },
     {
       company: "Dewan Perwakilan Mahasiswa FTI",
-      position: "several work program divisions",
+      position: "Several Work Program Divisions",
       startDate: "July 2024",
       endDate: "July 2025",
       summary: [
