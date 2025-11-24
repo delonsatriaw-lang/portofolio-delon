@@ -6,7 +6,7 @@ export const SITE_CONFIG: SiteConfig = {
   description:
     "Software Engineer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
   lang: "en",
-  siteLogo: "/Delon Pic.jpg",
+  siteLogo: "/Delon pic.jpg",
   navLinks: [
     { text: "Experience", href: "#experience" },
     { text: "Projects", href: "#projects" },
@@ -45,13 +45,18 @@ export const SITE_CONTENT: SiteContent = {
       ],
     },
     {
-      company: "Bankit",
-      position: "Mobile Developer",
-      startDate: "Feb 2017",
-      endDate: "May 2018",
+      company: "Dewan Perwakilan Mahasiswa FTI",
+      position: "several work program divisions",
+      startDate: "July 2024",
+      endDate: "July 2025",
       summary: [
-        "I designed and developed a mobile application using Flutter, allowing it to be deployed on both Android and iOS with a single codebase. This reduced development time by 50% and maintenance costs by 30%, facilitating a consistent user experience on both platforms.",
-        "I integrated biometric authentication and data encryption, significantly improving the security of user data. This implementation resulted in a 40% increase in user trust and a 25% reduction in unauthorized access attempts.",
+        "Legislative Training (leadership training) - as a participant.",
+        "Forlema (student organization forum) - as part of publication and documentation.",
+        "Rakerma (student work meeting) - as equipment division.",
+        "FTI Open House (opening party for faculty) - as part of publication and documentation.",
+        "Legislative Training (leadership training) - as part of publication and documentation.",
+        "Forkam (student communication forum) - as a treasurer.",
+        "Studi Banding (come to another campus) - as publication and documentation’s coordinator.",
       ],
     },
     {
@@ -88,11 +93,11 @@ export const SITE_CONTENT: SiteContent = {
   ],
   about: {
     description: `
-      I'm an Information Systems student with a strong interest in data analytics, application development, and information technology. I enjoy learning new things, especially those related to data processing, information visualization, and the use of technology to support decision-making. 
+      Delon Satria Wongsodirejo is an Information Systems student at Tarumanagara University with a strong focus on data analytics, application development, and information technology. He enjoys learning new things, especially those related to data processing, information visualization, and the use of technology to support decision-making. 
 
-      I am also developing my skills in programming, database management, and project management through academic coursework and personal projects. Motivated and adaptable, I am eager to keep learning and contribute to the continuously evolving world of technology.
+      Delon is actively developing his skills in programming, database management, and project management. Motivated and adaptable, he is eager to continue learning and contributing to the evolving world of technology.
     `,
-    image: "/Delon Pic.jpg",
+    image: "/Delon pic.jpg",
   },
 };
 
