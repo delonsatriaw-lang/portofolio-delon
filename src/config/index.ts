@@ -6,7 +6,7 @@ export const SITE_CONFIG: SiteConfig = {
   description:
     "Software Engineer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
   lang: "en",
-  siteLogo: "/alejandro-small.jpg",
+  siteLogo: "/Delon Pic.jpg",
   navLinks: [
     { text: "Experience", href: "#experience" },
     { text: "Projects", href: "#projects" },
@@ -92,7 +92,7 @@ export const SITE_CONTENT: SiteContent = {
 
       I am also developing my skills in programming, database management, and project management through academic coursework and personal projects. Motivated and adaptable, I am eager to keep learning and contribute to the continuously evolving world of technology.
     `,
-    image: "/alejandro-big.jpg",
+    image: "/Delon Pic.jpg",
   },
 };
 
