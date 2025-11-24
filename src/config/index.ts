@@ -59,14 +59,6 @@ export const SITE_CONTENT: SiteContent = {
         "Studi Banding (come to another campus) - as publication and documentation’s coordinator.",
       ],
     },
-    {
-      company: "Driveer",
-      position: "Frontend Developer",
-      startDate: "Jun 2015",
-      endDate: "Oct 2016",
-      summary:
-        "Developed and integrated a real-time vehicle tracking system using WebSockets, improving accuracy and data update in the application. This functionality increased user satisfaction by 30% and reduced customer service inquiries by 25%.",
-    },
   ],
   projects: [
     {
