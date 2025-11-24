@@ -33,7 +33,7 @@ export const SITE_CONTENT: SiteContent = {
   },
   experience: [
     {
-      organization: "Dewan Perwakilan Mahasiswa FTI",
+      company: "Dewan Perwakilan Mahasiswa FTI",
       position: "Public Relation Member",
       startDate: "July 2024",
       endDate: "July 2025",
