@@ -2,7 +2,7 @@ import type { SiteConfig, SiteContent } from "../types";
 
 export const SITE_CONFIG: SiteConfig = {
   title: "Delon Satria Wongsodirejo — Tarumanagara University",
-  author: "Alejandro Múnez Cuntez",
+  author: "Delon Satria Wongsodirejo",
   description:
     "Software Engineer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
   lang: "en",
@@ -62,21 +62,21 @@ export const SITE_CONTENT: SiteContent = {
   ],
   projects: [
     {
-      name: "Spotifu Music",
+      name: "Menulis Esai",
       summary: "A music streaming app that emulates Spotify's core features.",
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
       image: "/spotifu.png",
     },
     {
-      name: "Shopp App",
+      name: "Proker Legislative Training",
       summary: "An e-commerce platform that replicates Shopify's key features.",
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
       image: "/shopify-clon.png",
     },
     {
-      name: "ClonTagram",
+      name: "Membuat Aplikasi Reservasi",
       summary: "A social network that replicates the features of Instagram",
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
