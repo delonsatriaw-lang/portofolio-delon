@@ -70,10 +70,10 @@ export const SITE_CONTENT: SiteContent = {
     },
     {
       name: "Proker Legislative Training",
-      summary: "Menjadi anggota divis publikasi dan dokumentasi.",
+      summary: "Menjadi anggota divisi publikasi dan dokumentasi.",
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
-      image: "/shopify-clon.png",
+      image: "/Legislative-Training.png",
     },
     {
       name: "Membuat Aplikasi Reservasi",
