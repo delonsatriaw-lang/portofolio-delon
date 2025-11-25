@@ -63,21 +63,21 @@ export const SITE_CONTENT: SiteContent = {
   projects: [
     {
       name: "Menulis Esai",
-      summary: "A music streaming app that emulates Spotify's core features.",
+      summary: "Masuk dalam 10 karya esai terfavorit se Jabodetabek.",
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
       image: "/spotifu.png",
     },
     {
       name: "Proker Legislative Training",
-      summary: "An e-commerce platform that replicates Shopify's key features.",
+      summary: "Menjadi anggota divis publikasi dan dokumentasi.",
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
       image: "/shopify-clon.png",
     },
     {
       name: "Membuat Aplikasi Reservasi",
-      summary: "A social network that replicates the features of Instagram",
+      summary: "Membuat projek aplikasi reservasi layanan dan produk API kecantikan",
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
       image: "/clone-ig.png",
