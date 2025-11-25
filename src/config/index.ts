@@ -66,7 +66,7 @@ export const SITE_CONTENT: SiteContent = {
       summary: "Masuk dalam 10 karya esai terfavorit se Jabodetabek.",
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
-      image: "/spotifu.png",
+      image: "/Sertifikat-Esai.jpeg",
     },
     {
       name: "Proker Legislative Training",
