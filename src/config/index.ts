@@ -14,10 +14,8 @@ export const SITE_CONFIG: SiteConfig = {
   ],
   socialLinks: [
     { text: "Instagram", href: "https://www.instagram.com/delonsw/" },
-    { text: "LinkedIn", href: "https://github.com/immois/astro-zen" },
-    { text: "Github", href: "https://github.com/immois/astro-zen" },
-    { text: "Youtube", href: "https://github.com/immois/astro-zen" },
-    { text: "Dribbble", href: "https://github.com/immois/astro-zen" },
+    { text: "LinkedIn", href: "https://www.linkedin.com/in/delon-satria-wongsodirejo-8bb064390/" },
+    { text: "Github", href: "https://github.com/delonsatriaw-lang" },
   ],
   socialImage: "/zen-og.png",
   canonicalURL: "https://astro-zen.vercel.app",
